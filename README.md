@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Riley Spering**
 - 👀 I’m interested in software development, data analysis, and back-end development
-- 🌱 I’m currently learning data structures in C++ and more advanced JavaScript
+- 🌱 I’m currently learning more about algorithms in C++ and more advanced JavaScript
 - 📫 How to reach me: speringriley@gmail.com
 
 <!---
