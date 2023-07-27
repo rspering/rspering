@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Riley Spering**
-- 👀 I’m interested in software development, data analysis, and back-end development
-- 🌱 I’m currently learning more about algorithms in C++ and more advanced JavaScript
+- 👀 I’m interested in all things involving software. Experienced in Web Development and Back-end software engineering.
+- 🌱 I am ready to learn in any task and/or role handed to me. I believe that my experience in different areas of Computer Science prove that I am flexible and not afraid to approach anything thrown at me.
 - 📫 How to reach me: speringriley@gmail.com
 
 <!---
